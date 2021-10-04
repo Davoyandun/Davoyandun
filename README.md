@@ -1,4 +1,4 @@
-<h1 align="center">Hi  &nbsp;<img src="./icons/Hi.gif" width="48px"> ,I'm Jose Angel Rey 😎</h1>
+<h1 align="center">Hi  &nbsp;<img src="./icons/Hi.gif" width="48px"> Mucho gusto, Mi Nombre es David Yandún 😎</h1>
 
 <p align="center">
 <!--   <a href="#" target="blank">
