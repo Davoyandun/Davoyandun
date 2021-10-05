@@ -1,32 +1,6 @@
 <h1 align="center"> Mucho gusto,  &nbsp;<img src="./icons/Hi.gif" width="48px">  Mi Nombre es David Yandún 😎</h1>
 
-<p align="center">
-<!--   <a href="#" target="blank">
-    <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
-  </a> -->
-  <a href="https://jose-angel-rey.vercel.app/" target="blank">
-    <img align="center" src="./icons/Web.svg" alt="Jose Angel Rey" height="25" width="35" />
-  </a>
-  <a href="mailto:dev.joseangel.rey@gmail.com" target="blank">
-    <img align="center" src="./icons/Envelop.svg" alt="Jose Angel Rey" height="25" width="30" />
-  </a>
-<!--   <a href="https://www.freecodecamp.org/jose-angel-rey" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/freecodecamp.svg" alt="Jose Angel Rey's FreeCodeCamp profile" height="30" width="40" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/jose-angel-rey/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/linkedin.svg" alt="Jose Angel Rey" height="30" width="40" />
-  </a>
-</p>
-
----
-
-```js
-About Me = [
-    "I'm self-taught developer",
-    "A know about of HTML, CSS, SASS, JS, Bootstrap and Much More ...!",
-    "I’m currently learning JavaScript ecosystem",
-]
-```
+![Hola](https://user-images.githubusercontent.com/70674906/135950492-394ab8ae-3ff1-4cc5-b242-197a4fa9ef78.gif)
 
 <br><br>
 <h2 align="center">Skills 💪</h2>
