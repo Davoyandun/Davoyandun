@@ -16,15 +16,16 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoyandun)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davoyandun&repo=Color-chartreuse-dark)](https://github.com/Davoyandun/Color-flipper) -->
 
-<!--
-**Jose-Angel-Rey/Jose-Angel-Rey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**React**, **CSS3**, **HTML**, **JAVASCRIPT**, **NODE.JS**, **EXPRESS**
+
+Feactures: Filtered by type and creator, Sort by attack and name, Form to create  a new pokemon, Search by name, Details.
+
+===>     [SPA de Poémon](http://https://github.com/Davoyandun/App-React-PokeAPI "SPA de Poémon")
+
+===> [SPA de Videojuegos](http://https://github.com/Davoyandun/Proyecto-API-Videojuegos "SPA de Videojuegos")
+
+
+#### Ecommerce Salvatore
+Group project in which I participate with frontend components for the administrator, CRUD of products, categories and diets.
+
+===> [Ecommerce Salvatore](http://https://github.com/fsesin/ecommerce-dietetica "Ecommerce Salvatore")
