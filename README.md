@@ -1,35 +1,6 @@
-<h1 align="center"> Mucho gusto,  &nbsp;<img src="./icons/Hi.gif" width="48px">  Mi Nombre es David Yandún 😎</h1>
 
 ![Hola](https://user-images.githubusercontent.com/70674906/135950492-394ab8ae-3ff1-4cc5-b242-197a4fa9ef78.gif)
 
-<br><br>
-<h2 align="center">Skills 💪</h2>
-<p align="center">     
-<code>
-    <img src="./icons/Html.svg" alt="HTML5" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Css.svg" alt="CSS3" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Sass.svg" alt="Sass" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Javascript.svg" alt="Javascript" width="60" height="60"/>
-</code>&nbsp;
-    
-<code>
-    <img src="./icons/Git.svg" alt="Git" width="60" height="60"/>
-</code>&nbsp;
-<!-- <code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code>&nbsp; -->
-</p>
 
 
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/Jose-Angel-Rey" src="https://github-readme-stats.vercel.app/api?username=Davoyandun&theme=chartreuse-dark&show_icons=true" alt="avipatilpro"/></p></a>
