@@ -12,7 +12,7 @@
 
 
 
-## Know my projects.
+## Know my Projects.
 #### Web applications with ** APIS CONSUMPTION **:
 
 Technologies used:
