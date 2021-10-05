@@ -11,11 +11,11 @@
 
 
 
-<!-- ![Davoyandun](Github-banner.webp) -->
-<!-- ![Davoyandun Stats](https://github-readme-stats.vercel.app/api?username=Davoyandun&show_icons=true&theme=chartreuse-dark) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoyandun)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davoyandun&repo=Color-chartreuse-dark)](https://github.com/Davoyandun/Color-flipper) -->
 
+## Know my projects.
+#### Web applications with ** APIS CONSUMPTION **:
+
+Technologies used:
 **React**, **CSS3**, **HTML**, **JAVASCRIPT**, **NODE.JS**, **EXPRESS**
 
 Feactures: Filtered by type and creator, Sort by attack and name, Form to create  a new pokemon, Search by name, Details.
