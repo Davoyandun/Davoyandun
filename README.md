@@ -61,12 +61,12 @@ About Me = [
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/Jose-Angel-Rey" src="https://github-readme-stats.vercel.app/api?username=Davoyandun&theme=chartreuse-dark&show_icons=true" alt="avipatilpro"/></p></a>
 
 
-<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Angel-Rey&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a><br> 
+<br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davoyandun&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a><br> 
 
 
 
 
-<!-- ![Jose Angel Rey Github banner](Github-banner.webp) -->
+<!-- ![Davoyandun](Github-banner.webp) -->
 <!-- ![Davoyandun Stats](https://github-readme-stats.vercel.app/api?username=Davoyandun&show_icons=true&theme=chartreuse-dark) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoyandun)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davoyandun&repo=Color-chartreuse-dark)](https://github.com/Davoyandun/Color-flipper) -->
