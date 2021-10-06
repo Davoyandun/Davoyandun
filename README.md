@@ -13,14 +13,14 @@
 
 
 ## Know my Projects.
-#### Web applications with ** APIS CONSUMPTION **:
+#### Web applications with  APIS CONSUMPTION :
 
 Technologies used:
 **React**, **CSS3**, **HTML**, **JAVASCRIPT**, **NODE.JS**, **EXPRESS**
 
 Feactures: Filtered by type and creator, Sort by attack and name, Form to create  a new pokemon, Search by name, Details.
 
-===>     [SPA de Poémon](http://https://github.com/Davoyandun/App-React-PokeAPI "SPA de Poémon")
+===>     [SPA de PoKémon](http://https://github.com/Davoyandun/App-React-PokeAPI "SPA de Poémon")
 
 ===> [SPA de Videojuegos](http://https://github.com/Davoyandun/Proyecto-API-Videojuegos "SPA de Videojuegos")
 
