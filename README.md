@@ -20,12 +20,12 @@ Technologies used:
 
 Feactures: Filtered by type and creator, Sort by attack and name, Form to create  a new pokemon, Search by name, Details.
 
-===>     [SPA de Pokémon](http://https://github.com/Davoyandun/App-React-PokeAPI)
+===>     [SPA de Pokémon](https://github.com/Davoyandun/App-React-PokeAPI)
 
-===> [SPA de Videojuegos](http://https://github.com/Davoyandun/Proyecto-API-Videojuegos)
+===> [SPA de Videojuegos](https://github.com/Davoyandun/Proyecto-API-Videojuegos)
 
 
 #### Ecommerce Salvatore
 Group project in which I participate with frontend components for the administrator, CRUD of products, categories and diets.
 
-===> [Ecommerce Salvatore](http://https://github.com/fsesin/ecommerce-dietetica "Ecommerce Salvatore")
+===> [Ecommerce Salvatore](https://github.com/fsesin/ecommerce-dietetica "Ecommerce Salvatore")
