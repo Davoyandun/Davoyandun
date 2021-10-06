@@ -20,9 +20,9 @@ Technologies used:
 
 Feactures: Filtered by type and creator, Sort by attack and name, Form to create  a new pokemon, Search by name, Details.
 
-===>     [SPA de PoKémon](http://https://github.com/Davoyandun/App-React-PokeAPI "SPA de Poémon")
+===>     [SPA de Pokémon](http://https://github.com/Davoyandun/App-React-PokeAPI)
 
-===> [SPA de Videojuegos](http://https://github.com/Davoyandun/Proyecto-API-Videojuegos "SPA de Videojuegos")
+===> [SPA de Videojuegos](http://https://github.com/Davoyandun/Proyecto-API-Videojuegos)
 
 
 #### Ecommerce Salvatore
