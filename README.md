@@ -8,10 +8,6 @@
 
 <br><a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davoyandun&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a><br> 
 
-
-
-
-
 ## Know my Projects.
 #### Web applications with  APIS CONSUMPTION :
 
